@@ -1,6 +1,11 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JhOTZyZ2VxZmMwZTd0d2tsejh3ZWh6aDd3dTVpbjh0aDAwbzF3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r80EUSBT89ZIJwPn5T/giphy.gif" width="1000"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JhOTZyZ2VxZmMwZTd0d2tsejh3ZWh6aDd3dTVpbjh0aDAwbzF3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r80EUSBT89ZIJwPn5T/giphy.gif" width="500"/>
+
+<div id="badges">
+  <a href="https://t.me/GashmaK">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <!--
