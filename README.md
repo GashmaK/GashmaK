@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JhOTZyZ2VxZmMwZTd0d2tsejh3ZWh6aDd3dTVpbjh0aDAwbzF3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r80EUSBT89ZIJwPn5T/giphy.gif)" width="100"/>
+</div>
 
 <!--
 **GashmaK/GashmaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
