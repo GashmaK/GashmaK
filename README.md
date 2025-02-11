@@ -35,7 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="psql" alt="psql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" title="spark" alt="spark" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" title="spark" alt="spark" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="kafka" alt="kafka" width="40" height="40" )/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" title="nifi" alt="nifi" width="40" height="40"/>
 </div>
 
 </body>
