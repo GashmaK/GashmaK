@@ -8,7 +8,7 @@
 
 <ul>
   <li>👨‍💻 Middle Data Engineer</li>
-  <li>🎓 Studying Informatics and Computer Science at MAI, Moscow</li>
+  <li>🎓 Graduated in Informatics and Computer Science from MAI, Moscow</li>
   <li>🤓 Fluent in English, German, Armenian and Russian</li>
   <li>📊 Interested in Big Data, Machine Learning and Cloud Computing</li>
   <li>🚀 Passionate about new technologies and innovative solutions</li>
